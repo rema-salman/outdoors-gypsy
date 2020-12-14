@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4b3c242f.chunk.css",
+    "main.js": "/static/js/main.7a98ac1a.chunk.js",
+    "main.js.map": "/static/js/main.7a98ac1a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c53cf7c2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c53cf7c2.js.map",
+    "static/css/2.3d0588fc.chunk.css": "/static/css/2.3d0588fc.chunk.css",
+    "static/js/2.8b3a0f00.chunk.js": "/static/js/2.8b3a0f00.chunk.js",
+    "static/js/2.8b3a0f00.chunk.js.map": "/static/js/2.8b3a0f00.chunk.js.map",
+    "static/js/3.9b5339b7.chunk.js": "/static/js/3.9b5339b7.chunk.js",
+    "static/js/3.9b5339b7.chunk.js.map": "/static/js/3.9b5339b7.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.3d0588fc.chunk.css.map": "/static/css/2.3d0588fc.chunk.css.map",
+    "static/css/main.4b3c242f.chunk.css.map": "/static/css/main.4b3c242f.chunk.css.map",
+    "static/js/2.8b3a0f00.chunk.js.LICENSE.txt": "/static/js/2.8b3a0f00.chunk.js.LICENSE.txt",
+    "static/media/wildAnimal.5577baf1.png": "/static/media/wildAnimal.5577baf1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c53cf7c2.js",
+    "static/css/2.3d0588fc.chunk.css",
+    "static/js/2.8b3a0f00.chunk.js",
+    "static/css/main.4b3c242f.chunk.css",
+    "static/js/main.7a98ac1a.chunk.js"
+  ]
+}
